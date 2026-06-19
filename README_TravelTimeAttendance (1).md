@@ -83,6 +83,6 @@ They quantify trade-offs students live with every single day, and could realisti
 
 ---
 
-**Thank You Sir 🫡 : [Sir's Name]**
+**Thank You Sir  : [Sir Fakhar]**
 
 `#DataScience` `#Python` `#Statistics` `#BayesTheorem` `#NormalDistribution` `#COMSATS` `#Mathematics` `#StudentDeveloper`
