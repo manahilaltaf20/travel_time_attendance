@@ -60,3 +60,29 @@ Running the code produces 6 visualizations:
 ---
 
 ## 💻 Full Code on GitHub 👇
+
+**[travel_time_attendance.py](./travel_time_attendance.py)**
+
+---
+
+## ▶️ Run It Yourself
+
+```bash
+pip install numpy matplotlib scipy
+python travel_time_attendance.py
+```
+
+---
+
+## 💡 The Takeaway
+
+> *"Statistics doesn't just describe data — it reveals truth hidden inside numbers."*
+
+This is exactly what MTH-262 taught me — that the formulas we study aren't abstract.  
+They quantify trade-offs students live with every single day, and could realistically inform university transport or hostel-subsidy decisions.
+
+---
+
+**Thank You Sir  : [Sir Fakhar]**
+
+`#DataScience` `#Python` `#Statistics` `#BayesTheorem` `#NormalDistribution` `#COMSATS` `#Mathematics` `#StudentDeveloper`
